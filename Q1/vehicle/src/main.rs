@@ -1,4 +1,4 @@
-//Q1 Sollution
+//Q1: Sollution
 
 mod Vehicle
 {
